@@ -9,7 +9,7 @@ Welcome to my GitHub profile! As a full stack developer, I have expertise in bot
 * 🌍  I'm based in New Zealand
 * 🖥️  See my portfolio at [LuminaHub](http://luminahub.com/)
 * ✉️  You can contact me at [coinkarunaratne@gmail.com](mailto:coinkarunaratne@gmail.com)
-* 🧠  I'm learning Web-3 Development
+* 🧠  Currently I'm learning Web-3 Development
 * ⚡  Coding because: it keeps me from robbing banks.
 
 <a href="https://www.github.com/CoinKarunaratne" target="_blank" rel="noreferrer"><img
